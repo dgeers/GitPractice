@@ -1,8 +1,8 @@
 #Git Cheatsheet
-**Name:** Jojo Karlin
+**Name:** Doug Geers
 **Date:** January 17, 2017
 
-Git reference = https://www.git-scm.com/docs
+FYI, the Git reference is here: https://www.git-scm.com/docs
 
 Here are commands we used:
 
