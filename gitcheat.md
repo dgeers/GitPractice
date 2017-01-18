@@ -1,12 +1,14 @@
 #Git Cheatsheet
+
 **Name:** Doug Geers
+
 **Date:** January 17, 2017
 
 FYI, the Git reference is here: https://www.git-scm.com/docs
 
-Here are commands we used:
+#Here are commands we used:
 
-1. Setting up Github to handshake with my computer:
+##1. Setting up Github to handshake with my computer:
 
 - `git config` --global user.name "[name]
 
@@ -23,7 +25,7 @@ Here are commands we used:
 - `git status`  -- Show the working tree status
 
 
-2. Revising/Staging Git files
+##2. Revising/Staging Git files
 
 - `git log`    -- Show commit logs
 
