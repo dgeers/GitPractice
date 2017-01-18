@@ -8,7 +8,7 @@ Here are commands we used:
 
 1. Setting up Github to handshake with my computer:
 
-- git config --global user.name "[name]
+- 'git config' --global user.name "[name]
 
 - git config --global user.email "[email address]
 
