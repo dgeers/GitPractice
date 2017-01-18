@@ -6,6 +6,9 @@
 
 FYI, the Git reference is here: https://www.git-scm.com/docs
 
+- Git Markdown quick guide: https://help.github.com/articles/basic-writing-and-formatting-syntax/#headings
+
+
 #Here are commands we used:
 
 ##1. Setting up Github to handshake with my computer:
